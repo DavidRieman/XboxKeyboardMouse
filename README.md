@@ -13,9 +13,8 @@ Note: This app only starts when the Xbox streaming app is in the foreground.
 1. [You need SlimDX Runtime installed (x86)](https://slimdx.org/download.php)
 
 # Installation
-Simply run the ClickOnce installer. Either:
-* https://cdn.rawgit.com/DavidRieman/XboxKeyboardMouse/InstallerTest/Installer/XboxKeyboardMouse.application or
-* https://cdn.rawgit.com/DavidRieman/XboxKeyboardMouse/InstallerTest/Installer/setup.exe
+Simply run the installer: https://cdn.rawgit.com/DavidRieman/XboxKeyboardMouse/InstallerTest/Installer/setup.exe
+* The application will check for updates upon each successive launch.
 
 # Current Layout
 You may customize your own controller layout through the GUI but the default layout is:
